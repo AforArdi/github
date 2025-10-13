@@ -1,2 +1,0 @@
-After running the command - git revert HEAD
-this  file and the last commit is gonna get deleted
